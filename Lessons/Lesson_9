@@ -1,1 +1,7 @@
 MAIN COMANDS:
+git tag <version>
+git tag
+git tag --list
+git push --tags
+git tag -d <version>
+git push --delete origin <version>
